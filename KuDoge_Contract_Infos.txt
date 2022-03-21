@@ -1,0 +1,21 @@
+Token: KuDoge
+
+Contrat: 0x6665d66afa48f527d86623723342cfa258cb8666
+Decimals: 18
+Symbol: KuDo
+Launch: Fairlaunch, 30th June 2021
+Launch Supply: 1 Quadrillion
+
+Tokenomics/Transfer Fees:
+1.5% liquidity
+5.0% burned 
+0.5% marketing
+
+
+KuDoggie NFT:
+
+Contrat: 0x49A8038C3E5984CC3dB2E974280a7eeeeB982F1b
+Symbol: KDs
+Launch: Fairlaunch, 8th January 2022
+Max Supply: 3996
+Special Features: NFT Custom Naming, Redemption (Burn) for KuDoge
