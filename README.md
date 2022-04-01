@@ -1,6 +1,6 @@
 # KCC.Social's and KuDoge's Press Resources
 
-Find a variety of visual formats of our two logos as vector graphics.
+Find a variety of visual formats of our two logos as vector graphics in this repository.
 
 
 ## You can also find KuDoge here:
@@ -12,6 +12,12 @@ Find a variety of visual formats of our two logos as vector graphics.
  - [CoinGecko](https://www.coingecko.com/en/coins/kudoge)
  - [CoinMarketCap](https://coinmarketcap.com/currencies/kudoge/)
 
+
+## You can also find KCC.Social here:
+ - [GitHub](https://github.com/KCCSocial)
+ - [Discord](https://discord.gg/Byg3qWbB2v)
+ - [Telegram](https://t.me/KCCSocial)
+ - [Twitter](https://twitter.com/KCCSocial)
 
 
 ## Our Smart Contracts
