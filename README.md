@@ -22,6 +22,16 @@ Find a variety of visual formats of our two logos as vector graphics in this rep
 
 ## Our Smart Contracts
 
+
+### Token: KCC.Social Profile Accessory NFT
+
+| Information | Data |
+| ----------- | ------ |
+| Contract | 0x23A1Cc1FC7f1F9C571114E0f9F1bFF8F8cf9911c |
+| Type | ERC-1155 |
+| Launch | 17th April, 2022 |
+
+
 ### Token: KuDoge
 
 | Information | Data |
